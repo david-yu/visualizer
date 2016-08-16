@@ -1,6 +1,6 @@
-# This is a fork of the Tutum Visualizer
+# Swarm Visualizer
 
-Demo container that displays services on a diagram.
+Demo container that displays services on a diagram. This is a fork of the following repository: https://github.com/ManoMarks/docker-swarm-visualizer
 
 Each node in the swarm will show all tasks running on it. When a service goes down it'll be removed. When a node goes down it won't, instead the circle at the top will turn red to indicate it went down. Tasks will be removed.
 Occasionally the Remote API will return incomplete data, for instance the node can be missing a name. The next time info for that node is pulled, the name will update.
