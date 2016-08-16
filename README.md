@@ -1,6 +1,4 @@
-# Tutum Visualizer
-
-[![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
+# This is a fork of the Tutum Visualizer
 
 Demo container that displays services on a diagram.
 
